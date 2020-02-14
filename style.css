@@ -1,0 +1,31 @@
+
+
+.principal{
+height: 50em;
+background-color: palegoldenrod;
+padding: 2%;
+}
+
+.fila{
+    height: 33.3%;
+}
+
+.btnsize{
+    width: 30%;
+    height: 60%;
+    font-size: 2em;
+    border: 3px solid red;
+}
+
+.btnsizeUno{
+    width: 100%;
+    height: 100%;
+    font-size: 2em;
+    border: 3px solid red;
+}
+
+
+.linkea{
+    text-decoration: none;
+    color: white;
+}
